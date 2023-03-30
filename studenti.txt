@@ -1,0 +1,4 @@
+1,ana,6
+2, vasile,6
+3, ion, 2
+4, patri, 4

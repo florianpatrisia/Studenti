@@ -1,0 +1,4 @@
+1,Marcela,7
+2,nume2,4
+3,Iulia,2
+4,Darius,4
